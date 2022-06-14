@@ -13,7 +13,6 @@
             <div class="header">
                 <h2>Boas-vindas de volta!</h2>
                 <p>Estamos muito animados em te ver novamente!</p>
-                <span style="color: green"><?php echo $success ?></span>
             </div>
 
             <form method="POST" class="form">
